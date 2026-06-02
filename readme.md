@@ -44,6 +44,3 @@ model.fit(X_train, labels_train)
 ```
 pandas, numpy, scikit-learn, nltk, matplotlib, seaborn
 ```
-
-## Author
-[Your Name] | May 2026
